@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Berozy Brokerage ver. 1 (by HUGO SSG)'
+theme = 'ananke'
